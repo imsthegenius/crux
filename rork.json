@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "CRUX",
+      "path": "ios",
+      "framework": "swift"
+    }
+  ]
+}
